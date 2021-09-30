@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flashcards-project/static/css/main.e433311a.chunk.css",
+    "main.js": "/flashcards-project/static/js/main.6f55ed52.chunk.js",
+    "main.js.map": "/flashcards-project/static/js/main.6f55ed52.chunk.js.map",
+    "runtime-main.js": "/flashcards-project/static/js/runtime-main.5dd76efc.js",
+    "runtime-main.js.map": "/flashcards-project/static/js/runtime-main.5dd76efc.js.map",
+    "static/js/2.abbe917c.chunk.js": "/flashcards-project/static/js/2.abbe917c.chunk.js",
+    "static/js/2.abbe917c.chunk.js.map": "/flashcards-project/static/js/2.abbe917c.chunk.js.map",
+    "index.html": "/flashcards-project/index.html",
+    "static/css/main.e433311a.chunk.css.map": "/flashcards-project/static/css/main.e433311a.chunk.css.map",
+    "static/js/2.abbe917c.chunk.js.LICENSE.txt": "/flashcards-project/static/js/2.abbe917c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dd76efc.js",
+    "static/js/2.abbe917c.chunk.js",
+    "static/css/main.e433311a.chunk.css",
+    "static/js/main.6f55ed52.chunk.js"
+  ]
+}
