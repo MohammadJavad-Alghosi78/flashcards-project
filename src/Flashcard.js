@@ -10,7 +10,7 @@ export default function Flashcard({ flashcard }) {
   const setMaxHeight = () => {
     const frontHeight = frontEl.current.getBoundingClientRect().height;
     const backHeight = backEl.current.getBoundingClientRect().height;
-    setHeight(Math.max(frontHeight, backHeight, 100));
+    setHeight(Math.max(frontHeight, backHeight, 100))
   }
 
   React.useEffect(setMaxHeight,
